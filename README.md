@@ -1,6 +1,6 @@
 # Q0964
 
-**Projeto Leitor de Código de Barras com RFID**
+**Liberando acessos e Travas com ESP32 e RFID**
 
 Projeto do Vídeo Q0964 Série Matatona Maker powered by Petrobras
 
