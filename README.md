@@ -2,7 +2,7 @@
 
 **Liberando acessos e Travas com ESP32 e RFID**
 
-Projeto do Vídeo Q0964 Série Matatona Maker powered by Petrobras
+Projeto do Vídeo Q0964 Série **Maratona Maker** powered by **Petrobras**
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/L4vh95aklPc)
 
