@@ -16,10 +16,11 @@ Projeto do Vídeo Q0964 Série **Maratona Maker** powered by **Petrobras**
 
 **Conheça nossas Redes Sociais:**
 
-<img src="https://img.icons8.com/color/50/youtube-play.png" width="20px" /> [YouTube](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  ](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw/)
 
-<img src="https://img.icons8.com/color/50/instagram-new--v1.png" width="20px" /> [Instagram](https://www.instagram.com/brincandocomideias/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/brincandocomideias/)
 
-<img src="https://img.icons8.com/color/50/facebook-circled--v1.png" width="20px" /> [Facebook](https://www.facebook.com/paginaBrincandoComIdeias/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/paginaBrincandoComIdeias/)
 
-<img src="https://img.icons8.com/color/50/domain--v1.png" width="20px" /> [Site OFicial](https://www.brincandocomideias.com/)
+[![Siteoficial](https://img.shields.io/badge/🌐-SITE%20OFICIAL-brightgreen)](https://www.brincandocomideias.com/)
+
